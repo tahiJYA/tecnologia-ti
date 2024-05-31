@@ -476,20 +476,18 @@ option {
     border-radius: 13px;
     text-transform: uppercase;
     height: 35px;
-    padding: 0px 10px;
 }
 
 .input_form_3 {
-    width: 80%;
+    width: calc(80% + 20px);
     height: 35px;
     border: 1.5px #cccccc50 solid;
     border-radius: 13px;
     text-transform: uppercase;
-    padding: 0px 10px;
 }
 
 .input_form_4 {
-    width: calc(80% + 20px);
+    width: calc(80%);
     height: 180px;
     border: 1.5px #cccccc50 solid;
     border-radius: 13px;
