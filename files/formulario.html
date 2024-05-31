@@ -94,20 +94,20 @@
 
 
 
-                <form method="post" action="" class="formulario_seccion_2">
-                    <input name="" type="text" placeholder="Nombre completo" class="input_form_3" required data-error="Campo requerido|Formato inválido">
-                    <input name="" type="email" placeholder="Correo electrónico" class="input_form_2" required data-error="Campo requerido|Formato inválido">
+                <form method="post" action="https://php.embluemail.com/Integraciones/form_events/emblue_events.php" class="formulario_seccion_2">
+                    <input name="nombre" type="text" placeholder="Nombre completo" class="input_form_3" required data-error="Campo requerido|Formato inválido">
+                    <input name="email" type="email" placeholder="Correo electrónico" class="input_form_2" required data-error="Campo requerido|Formato inválido">
 
-                    <select class="input_form_2" name="" required>
+                    <select class="input_form_2" name="volverias_a_participar" required>
                         <option value="" class="section_opciones" disabled selected>¿Volverías a participar?</option>
-                        <option value="SIS">SI</option>
+                        <option value="SI">SI</option>
                         <option value="NO">NO</option>
                         <option value="TAL VEZ">TAL VEZ</option>
                         <option value="NO SÉ">NO SÉ</option>
                     </select>
 
 
-                    <select class="input_form_2" name="" required>
+                    <select class="input_form_2" name="como_se_entero_del_evento" required>
                         <option value="" class="section_opciones" disabled selected>¿CÓMO SE ENTERÓ DEL EVENTO?</option>
                         <option value="REDES SOCIALES">REDES SOCIALES</option>
                         <option value="YOUTUBE">YOUTUBE</option>
@@ -116,7 +116,7 @@
                         <option value="SITIOS WEB">SITIOS WEB</option>
                     </select>
 
-                    <select class="input_form_2" name="" required>
+                    <select class="input_form_2" name="que_calificacion_le_das_al_evento" required>
                         <option value="" class="section_opciones" disabled selected>¿QUÉ TE PARECIÓ EL EVENTO?</option>
                         <option value="0">0</option>
                         <option value="1">1</option>
@@ -131,9 +131,16 @@
                         <option value="10">10</option>
                     </select>
 
-                    <input name="" type="text" placeholder="CUÉNTANOS TU EXPERIENCIA" class="input_form_4" required data-error="Campo requerido|Formato inválido">
+                    <input name="cuentanos_tu_experiencia" type="text" placeholder="CUÉNTANOS TU EXPERIENCIA" class="input_form_4" required data-error="Campo requerido|Formato inválido">
 
                     <input type="submit" value="ENVIAR" class="boton_general_1" style="width: 200px;" name="Enviar" required>
+
+
+
+
+                    <input type="hidden" placeholder="Evento" value="encuesta_ti-2024" name="evento" />
+                    <input type="hidden" name="token" value="25a91aa11d0443c1ace59204a43c71d8" />
+                    <input type="hidden" name="redir" value="https://cloudstorage.embluemail.com/clientes/Templates/redirec_forms.html" />
                 </form>
 
 
