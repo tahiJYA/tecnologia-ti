@@ -1,0 +1,116 @@
+{
+    "premiados": [
+        {
+            "nombre": "Pablo Antonio",
+            "cargo": "Fundador y CEO de Algotive",
+            "imagen": "assets/images/pablo_antonio_castillon_algotive.webp",
+            "imagen_2": "../../assets/images/pablo_antonio_castillon_algotive.webp",
+            "pagina": "files/panelistas/pablo_antonio_castillon_algotive.html",
+            "bloque": "bloque1"
+        },
+        {
+            "nombre": "Jesús David",
+            "cargo": "Chief Transmormation and Information Officer de Hospitales MAC",
+            "imagen": "assets/images/jesus_diaz_garaya_ordobill_cio_hospitales.webp",
+            "imagen_2": "../../assets/images/jesus_diaz_garaya_ordobill_cio_hospitales.webp",
+            "pagina": "files/panelistas/jesus_diaz_garaya_ordobill_cio_hospitales.html",
+            "bloque": "bloque2"
+        },
+        {
+            "nombre": "Raúl Medina",
+            "cargo": "Director IT México, Caribe y Centroammérica de Unilever México",
+            "imagen": "assets/images/aldo_raul_medina_celi_unilever.webp",
+            "imagen_2": "../../assets/images/aldo_raul_medina_celi_unilever.webp",
+            "pagina": "files/panelistas/aldo_raul_medina_celi_unilever.html",
+            "bloque": "bloque3"
+        },
+        {
+            "nombre": "Erika Sánchez",
+            "cargo": "CISO y Directora de prevención de Fraudes de Coppel Servicios Financieros",
+            "imagen": "assets/images/erika_mata_sanchez_coppel_1.webp",
+            "imagen_2": "../../assets/images/erika_mata_sanchez_coppel_1.webp",
+            "pagina": "files/panelistas/erika_mata_sanchez_coppel_1.html",
+            "bloque": "bloque4"
+        },
+        {
+            "nombre": "Fausto Moreno",
+            "cargo": "Head of Digital Assets Business Unit de Grupo Elektra",
+            "imagen": "assets/images/fausto_moreno.webp",
+            "imagen_2": "../../assets/images/fausto_moreno.webp",
+            "pagina": "files/panelistas/fausto_moreno.html",
+            "bloque": "bloque5"
+        },
+        {
+            "nombre": "Carlos Nuñez",
+            "cargo": "Director de TI para México y Centroamérica de Ferrero de México",
+            "imagen": "assets/images/carlos_alberto_nunez_quirarte_ferrero_.webp",
+            "imagen_2": "../../assets/images/carlos_alberto_nunez_quirarte_ferrero_.webp",
+            "pagina": "files/panelistas/carlos_alberto_nunez_quirarte_ferrero_.html",
+            "bloque": "bloque6"
+        },
+        {
+            "nombre": "Carlo González",
+            "cargo": "CIO de Grupo Interesse",
+            "imagen": "assets/images/carlo_puerto_grupo_interesse.webp",
+            "imagen_2": "../../assets/images/carlo_puerto_grupo_interesse.webp",
+            "pagina": "files/panelistas/carlo_puerto_grupo_interesse.html",
+            "bloque": "bloque7"
+        },
+        {
+            "nombre": "Pablo Ramírez",
+            "cargo": "Chief Technology Officer de A127",
+            "imagen": "assets/images/pablo_ramirez.webp",
+            "imagen_2": "../../assets/images/pablo_ramirez.webp",
+            "pagina": "files/panelistas/pablo_ramirez.html",
+            "bloque": "bloque8"
+        },
+        {
+            "nombre": "Juan Rosales",
+            "cargo": "Head of Engineering México de BBVA México",
+            "imagen": "assets/images/rafael_juan_rosales_flores_BBVA.webp",
+            "imagen_2": "../../assets/images/rafael_juan_rosales_flores_BBVA.webp",
+            "pagina": "files/panelistas/rafael_juan_rosales_gomez_BBVA.html",
+            "bloque": "bloque9"
+        },
+        {
+            "nombre": "Fernando Treviño",
+            "cargo": "Director General Adjunto de Tecnología de Banorte",
+            "imagen": "assets/images/fernando_trevino_elizondo_banorte.webp",
+            "imagen_2": "../../assets/images/fernando_trevino_elizondo_banorte.webp",
+            "pagina": "files/panelistas/fernando_trevino_elizondo_banorte.html",
+            "bloque": "bloque10"
+        },
+        {
+            "nombre": "Rosario Valdivia",
+            "cargo": "CIO para Banca de Consumo de Citibanamex",
+            "imagen": "assets/images/rosario_valdivia_citibanamex.webp",
+            "imagen_2": "../../assets/images/rosario_valdivia_citibanamex.webp",
+            "pagina": "files/panelistas/rosario_valdivia_citibanamex.html",
+            "bloque": "bloque11"
+        },
+        {
+            "nombre": "José Velasco",
+            "cargo": "Chief Technology and Information Officer de equality company",
+            "imagen": "assets/images/jose_rodolfo_velasco_cota_equality_company.webp",
+            "imagen_2": "../../assets/images/jose_rodolfo_velasco_cota_equality_company.webp",
+            "pagina": "files/panelistas/jose_rodolfo_velasco_cota_equality_company.html",
+            "bloque": "bloque12"
+        },
+        {
+            "nombre": "Fernando Velázquez",
+            "cargo": "Sr. Director Technology Transformation & Innovation, México y Centroamérica de W.M.C.",
+            "imagen": "assets/images/fernando_velazquez_walmart.webp",
+            "imagen_2": "../../assets/images/fernando_velazquez_walmart.webp",
+            "pagina": "files/panelistas/fernando_velazquez_walmart.html",
+            "bloque": "bloque13"
+        },
+        {
+            "nombre": "Enaela García",
+            "cargo": "CEO de CYCSAS",
+            "imagen": "assets/images/enaelagarcia.webp",
+            "imagen_2": "../../assets/images/enaelagarcia.webp",
+            "pagina": "files/panelistas/enaelagarcia.html",
+            "bloque": "bloque13"
+        }
+    ]
+}

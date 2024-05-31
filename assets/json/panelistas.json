@@ -1,0 +1,12 @@
+{
+    "panelistas": [
+        {
+            "nombre": "Alfonso Jiménez",
+            "cargo": "LATAM Strategy Cloud & EBG",
+            "imagen": "assets/images/alfonsojimenez.webp",
+            "imagen_2": "../../assets/images/alfonsojimenez.webp",
+            "pagina": "files/panelistas/alfonsojimenez.html",
+            "bloque": "bloque1"
+        }
+    ]
+}
